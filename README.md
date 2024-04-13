@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there! 👋, I am Daniel Chime
+I am a passionate data analyst from Nigeria. I enjoy building functional programs with python and discovering key insights to help businesses trive. 
+- 🔭 *Working* on creating dynamic data pipelines, designing aesthetic and informative dashboards, analysing big data to produce insight, and constantly debugging 😅,
+- 🌱 *Mastering* `Cloud Data Engineering with GCP and AWS`
 
-<!--
-**ChimeDaniel/Chimedaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Chime-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-enoch/)](https://www.linkedin.com/in/daniel-chime/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=[https://gmail.com/](https://gmail.com/))
+
+<br />
+
+
+## Expertise
+<br>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
+To preview my portfolio, click on <a href="https://stevenchime.wixsite.com/chime-daniel">this link</a>
