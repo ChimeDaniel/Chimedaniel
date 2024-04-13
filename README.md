@@ -6,8 +6,8 @@ I am a passionate data analyst from Nigeria. I enjoy building functional program
 ## Connect with me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Chime-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-enoch/)](https://www.linkedin.com/in/daniel-chime/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=[https://gmail.com/](https://gmail.com/))
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Chime-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-enoch/)](https://www.linkedin.com/in/daniel-chime/)
+![Gmail](https://img.shields.io/badge/-stevenchime@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=[https://gmail.com/](https://gmail.com/))
 
 <br />
 
