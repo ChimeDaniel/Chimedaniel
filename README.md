@@ -1,6 +1,6 @@
 ### Hi there! 👋, I am Daniel Chime
-I am a passionate data analyst from Nigeria. I enjoy building functional programs with python and discovering key insights to help businesses trive. 
-- 🔭 *Working* on creating dynamic data pipelines, designing aesthetic and informative dashboards, analysing big data to produce insight, and constantly debugging 😅,
+I am a passionate data analyst from Nigeria. I enjoy building functional programs with Python and discovering key insights to help businesses thrive. 
+- 🔭 *Working* on creating dynamic data pipelines, designing aesthetic and informative dashboards, analysing big data to produce insight, and constantly debugging 😅
 - 🌱 *Mastering* `Cloud Data Engineering with GCP and AWS`
 
 ## Connect with me
@@ -23,4 +23,4 @@ I am a passionate data analyst from Nigeria. I enjoy building functional program
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-To preview my portfolio, click on <a href="https://stevenchime.wixsite.com/chime-daniel">this link</a>
+To preview my portfolio, click <a href="https://stevenchime.wixsite.com/chime-daniel">here</a>
