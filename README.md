@@ -23,4 +23,4 @@ I am a passionate data analyst from Nigeria. I enjoy building functional program
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-To preview my portfolio, click <a href="https://stevenchime.wixsite.com/chime-daniel">here</a>
+To preview my portfolio, click <a href="https://stevenchime.wixsite.com/daniel-chime">here</a>
